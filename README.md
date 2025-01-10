@@ -25,10 +25,10 @@ This project predicts SpaceX Falcon 9 first stage landing success using machine 
 - Folium for geographic visualizations
 
 ## Repository Structure
-data/                 # Raw and processed datasets
-notebooks/            # Jupyter notebooks for analysis
-images/               # Visualization outputs
-presentation/         # Project presentation materials
+- data/                 # Raw and processed datasets
+- notebooks/            # Jupyter notebooks for analysis
+- images/               # Visualization outputs
+- presentation/         # Project presentation materials
 
 
 ## Key Findings
