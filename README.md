@@ -35,7 +35,7 @@ This project predicts SpaceX Falcon 9 first stage landing success using machine 
 Launch success rate improved since 2013
 Launch site success rates vary significantly
 Payload mass correlates with landing success
-Model achieved [X]% prediction accuracy
+Model achieved 83% prediction accuracy
 
 ## Contributors
 Kenneth Ng
